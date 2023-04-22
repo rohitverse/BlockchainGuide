@@ -1,4 +1,4 @@
-# BlockchainGuide
+# Simplifying Blockchain Concepts in 7 Simple Points.
 
 | No. | Topics                                                                            |
 | --- | -------------------------------------------------------------------------------------------- |
