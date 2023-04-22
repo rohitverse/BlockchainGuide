@@ -1,7 +1,14 @@
 # BlockchainGuide
 
-## Blockchain Technology
-## 1.Bitcoin
+| No. | Questions                                                                                    |
+| --- | -------------------------------------------------------------------------------------------- |
+| 01  | [What is Blockchain Techonology](#what-is-blockchain-technology)                                                   |
+| 02  | [What is Bitcoin](#what-is-bitcoin)                                                   |
+| 03  | [What is Wrapped Bitcoin](#what-is-wrapped-bitcoin)                                                   |
+
+
+## What is Blockchain Technology
+## What is Bitcoin
 1. **Definition:** Bitcoin is a decentralized digital currency that enables peer-to-peer transactions without the need for a central authority or intermediary.
 
 2. **Blockchain:** Bitcoin transactions are recorded on a public ledger called the blockchain, which is a decentralized database maintained by a network of computers around the world.
@@ -18,7 +25,7 @@
 
 **Overall**, Bitcoin is a revolutionary digital currency that enables fast, secure, and low-cost transactions without the need for intermediaries. Its decentralized nature and limited supply make it a unique asset class that is increasingly being recognized by investors and financial institutions
 
-## 2.Wrapped Bitcoin
+## What is Wrapped Bitcoin
 1. **Definition:** Wrapped Bitcoin (WBTC) is a tokenized version of Bitcoin that is backed 1:1 by Bitcoin and can be used on the Ethereum blockchain.
 2. **Purpose**: The purpose of WBTC is to enable Bitcoin to be used in decentralized applications (dApps) on the Ethereum network, which is a popular platform for building decentralized finance (DeFi) applications.
 3. **Tokenization**: WBTC is created by depositing Bitcoin with a custodian, who then issues WBTC tokens on the Ethereum blockchain. The custodian holds the Bitcoin in reserve and ensures that each WBTC token is always backed by an equivalent amount of Bitcoin.
