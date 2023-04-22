@@ -1,6 +1,6 @@
 # BlockchainGuide
 
-| No. | Questions                                                                                    |
+| No. | Topics                                                                            |
 | --- | -------------------------------------------------------------------------------------------- |
 | 01  | [What is Blockchain Techonology?](#what-is-blockchain-technology)                                                   |
 | 02  | [What is Bitcoin?](#what-is-bitcoin)                                                   |
