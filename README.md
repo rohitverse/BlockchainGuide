@@ -5,6 +5,7 @@
 | 01  | [What is Blockchain Techonology?](#what-is-blockchain-technology)                                                   |
 | 02  | [What is Bitcoin?](#what-is-bitcoin)                                                   |
 | 03  | [What is Wrapped Bitcoin?](#what-is-wrapped-bitcoin)                                                   |
+| 04  | [What is Ethereum ?](#what-is-ethereum)                                                   |
 
 
 ## What is Blockchain Technology
